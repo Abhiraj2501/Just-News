@@ -7,7 +7,6 @@ print(url)
 r = requests.get(url)
 data = r.json()
 articles = data["articles"]
-i = 0
-while i<5:
-    print(articles[i]["title"],articles[i]["url"])
-    i+=1
+for index, article in enumerate(articles):
+    print(index+1,article["title"], article["url"])
+    print("\n*****************************************************\n")
