@@ -1,0 +1,5 @@
+
+{
+  "name": "Just News",
+  "description": "A high-performance news dashboard that leverages Gemini 3 and Google Search grounding to fetch real-time news articles and provide keyword frequency analysis."
+}
