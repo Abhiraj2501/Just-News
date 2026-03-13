@@ -7,7 +7,9 @@ The application uses **Gemini 3 with Google Search grounding** to fetch relevant
 It is designed to be fast, simple, and useful for quickly understanding how a topic is trending in the news.
 
 ---
-
+## Contribution
+Minor documentation improvement by Abhishra0525.
+---
 ## Features
 
 • Keyword-based news search  
